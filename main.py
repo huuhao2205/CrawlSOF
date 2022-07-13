@@ -52,7 +52,7 @@ mydb = mysql.connector.connect(
 
     host="localhost",
 
-    user="root",
+    user="hao",
 
     password="123456",
 
